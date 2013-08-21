@@ -5,9 +5,11 @@ zentropy, Measure entropy of parts of file
 Usage
 -----
 
-$ qmake zentropy.pro
-$ make
-$ ./zentropy file 1000
+::
+
+    $ qmake zentropy.pro
+    $ make
+    $ ./zentropy file 1000
 
 Output line:
  120000 130000 10000 5284 52.84 0001000100010001000100010001000100000000
